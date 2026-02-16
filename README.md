@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickysrm" alt="vickysrm" /></a> </p>
 
-- 🔭 I’m currently working on **IssuePulse**
+- 🔭 I’m currently working on **SRM ChatBot**
 
 - 🌱 I’m currently learning **JavaScript**
 
