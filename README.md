@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickysrm" alt="vickysrm" /></a> </p>
 
-- 🔭 I’m currently working on **FocusFlow**
+- 🔭 I’m currently working on **PawPulse**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML CSS,Java Swing**
+- 💬 Ask me about **Full Stack Development, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
